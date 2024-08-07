@@ -86,11 +86,4 @@ A Django-based promo code system that allows generating and applying promo codes
    ```
    This command starts the Django development server, allowing you to access the application locally.
 
-## Notes
-
-In this section:
-- The setup steps are listed in an ordered list.
-- Code blocks for commands like cloning the repository, navigating to the directory, installing dependencies, applying migrations, and running the server are properly formatted using triple backticks (`` ``` ``) and specifying the language (e.g., `bash`) for syntax highlighting.
-
-This is correctly formatted in Markdown and should display as expected in any Markdown viewer.
 ```
